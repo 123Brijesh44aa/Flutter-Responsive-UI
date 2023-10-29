@@ -18,7 +18,7 @@ Make sure you have Flutter and Dart installed on your machine. If not, follow th
 
 ## Screenshots
 
-![Screenshot_20231029_131502](https://github.com/123Brijesh44aa/Flutter-Responsive-UI/assets/83857442/77dbe0b4-57d6-49f7-9b41-bf12685347bd)
+![Screenshot_20231029_131502](https://github.com/123Brijesh44aa/Flutter-Responsive-UI/assets/83857442/77dbe0b4-57d6-49f7-9b41-bf12685347bd =250x250)
 
 A few resources to get you started if this is your first Flutter project:
 
