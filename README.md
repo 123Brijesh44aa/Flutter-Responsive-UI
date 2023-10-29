@@ -1,10 +1,25 @@
-# flutter_responsive_ui
+# Responsive Messaging app UI for Web and Android app Using Flutter and dart
 
-A new Flutter project.
+This is a basic project whose main purpose is to create a responsive messaging application so that it is visible in a responsive manner in Android apps and websites.
+
+## Overview
+
+In this project, I have created 2 UIs, first for web and second for Android app so that this app looks responsive at both the places.
+
+## Features
+
+- Responsive design for Android and Web
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+
+Make sure you have Flutter and Dart installed on your machine. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+
+## Screenshots
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
