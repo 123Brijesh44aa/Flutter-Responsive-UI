@@ -20,6 +20,11 @@ Make sure you have Flutter and Dart installed on your machine. If not, follow th
 
 <img src="https://github.com/123Brijesh44aa/Flutter-Responsive-UI/assets/83857442/77dbe0b4-57d6-49f7-9b41-bf12685347bd" width="300" height="600">
 
+![Flutter Demo - Google Chrome 29-10-2023 13_13_34](https://github.com/123Brijesh44aa/Flutter-Responsive-UI/assets/83857442/4c9289ee-c683-4ae5-98c2-af56ad946d21)
+
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
