@@ -17,7 +17,7 @@ In this project, I have created 2 UIs, first for web and second for Android app 
 Make sure you have Flutter and Dart installed on your machine. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
 ## Screenshots
-
+file:///C:/Users/oddsw/Downloads/Screenshot_20231029_131502.png
 
 
 
